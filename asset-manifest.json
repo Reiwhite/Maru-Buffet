@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Maru-Buffet/static/css/main.586cdb78.css",
+    "main.js": "/Maru-Buffet/static/js/main.87e934ff.js",
+    "static/js/488.8c0954a3.chunk.js": "/Maru-Buffet/static/js/488.8c0954a3.chunk.js",
+    "index.html": "/Maru-Buffet/index.html",
+    "main.586cdb78.css.map": "/Maru-Buffet/static/css/main.586cdb78.css.map",
+    "main.87e934ff.js.map": "/Maru-Buffet/static/js/main.87e934ff.js.map",
+    "488.8c0954a3.chunk.js.map": "/Maru-Buffet/static/js/488.8c0954a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.586cdb78.css",
+    "static/js/main.87e934ff.js"
+  ]
+}
