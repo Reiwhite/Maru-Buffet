@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/Maru-Buffet/static/css/main.586cdb78.css",
-    "main.js": "/Maru-Buffet/static/js/main.87e934ff.js",
+    "main.css": "/Maru-Buffet/static/css/main.dc5a4be2.css",
+    "main.js": "/Maru-Buffet/static/js/main.bbb88006.js",
     "static/js/488.8c0954a3.chunk.js": "/Maru-Buffet/static/js/488.8c0954a3.chunk.js",
+    "static/media/v9_5.png": "/Maru-Buffet/static/media/v9_5.8427dfe9a225e9c240ec.png",
+    "static/media/v9_2.png": "/Maru-Buffet/static/media/v9_2.e31686add312d117c060.png",
+    "static/media/v9_4.png": "/Maru-Buffet/static/media/v9_4.f8dbf203358466c8a286.png",
+    "static/media/v9_6.png": "/Maru-Buffet/static/media/v9_6.fe89e17cfae30843607c.png",
+    "static/media/v7_2.png": "/Maru-Buffet/static/media/v7_2.cd3a640e68aab27a2ca4.png",
     "index.html": "/Maru-Buffet/index.html",
-    "main.586cdb78.css.map": "/Maru-Buffet/static/css/main.586cdb78.css.map",
-    "main.87e934ff.js.map": "/Maru-Buffet/static/js/main.87e934ff.js.map",
+    "main.dc5a4be2.css.map": "/Maru-Buffet/static/css/main.dc5a4be2.css.map",
+    "main.bbb88006.js.map": "/Maru-Buffet/static/js/main.bbb88006.js.map",
     "488.8c0954a3.chunk.js.map": "/Maru-Buffet/static/js/488.8c0954a3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.586cdb78.css",
-    "static/js/main.87e934ff.js"
+    "static/css/main.dc5a4be2.css",
+    "static/js/main.bbb88006.js"
   ]
 }
