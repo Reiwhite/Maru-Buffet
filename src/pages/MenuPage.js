@@ -1,10 +1,10 @@
 // Aboutpage.js
 import React from 'react';
 
-function Contactpage() {
+function MenuPage() {
   return (
-    <div className="contactpage">
-      <h1>Welcome to the Contactpage</h1>
+    <div className="MenuPage">
+      <h1>Welcome to the MenuPage</h1>
       <p>This is the homepage of our website. Here, you can find an overview of our app and all the great features we offer!</p>
       
       <section className="features">
@@ -19,4 +19,4 @@ function Contactpage() {
   );
 }
 
-export default Contactpage;
+export default MenuPage;

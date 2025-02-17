@@ -1,11 +1,11 @@
 import './App.css';
 import React from 'react';
 import 'bootstrap/dist/js/bootstrap.bundle.min.js';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Home from "./pages/HomePage";
 import About from "./pages/AboutPage";
-import Contact from "./pages/ContactPage";
+import MenuPage from "./pages/MenuPage";
 
 function App() {
   return (
@@ -16,7 +16,7 @@ function App() {
           <Routes>
             <Route path="/Maru-Buffet" element={<Home />} />
             <Route path="/about" element={<About />} />
-            <Route path="/contact" element={<Contact />} />
+            <Route path="/MenuPage" element={<MenuPage />} />
           </Routes>
       </Router>
       </header>
